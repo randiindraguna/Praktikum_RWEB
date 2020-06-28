@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->  
-    <link rel="icon" type="image/png" href="<?php echo base_url()?>images/logo mekar.png"/>
+    <link rel="icon" type="image/png" href="<?php echo base_url()?>images/diylogo.png"/>
 <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets_login/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -32,7 +32,7 @@
                     <span class="login100-form-title p-b-20">
                         Login Administrator
 
-                    <h4>SMA Mekar Arum</h4>
+                    <h4>Website Dikpora</h4>
                     </span>
                     <p style="text-align: center;">Username atau Password Salah</p>
                         <a href="<?php echo base_url()?>login"><button  class="login100-form-btn" >
