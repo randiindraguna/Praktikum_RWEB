@@ -1,0 +1,2 @@
+Untuk menjalankan program ini, diharapkan menggunakan versi php yang lama 
+atau menggunakan web browser maxthon agar compatible dengan program.
